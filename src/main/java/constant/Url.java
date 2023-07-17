@@ -1,5 +1,5 @@
-package edu.praktikum.samokat.example;
+package constant;
 
-public class URL {
+public class Url {
     public static final String URL = "https://qa-scooter.praktikum-services.ru";
 }

@@ -32,12 +32,6 @@
             <scope>test</scope>
         </dependency>
         <dependency>
-            <groupId>org.scalatestplus</groupId>
-            <artifactId>junit-4-12_2.13</artifactId>
-            <version>3.3.0.0-SNAP2</version>
-            <scope>test</scope>
-        </dependency>
-        <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
             <version>4.13.2</version>
